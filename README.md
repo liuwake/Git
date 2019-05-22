@@ -1,5 +1,9 @@
-# git-github
+# Git
 
-# 1 Enviroment
+# 1. Git soft
 
-# 2 Init
+# gitignore
+- VisualStudio.gitignore
+- *Python*
+
+# 
