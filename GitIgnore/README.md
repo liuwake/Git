@@ -1,0 +1,4 @@
+# Git
+
+## GitIgnore
+[git-scm:gitignore - Specifies intentionally untracked files to ignore](https://git-scm.com/docs/gitignore)
