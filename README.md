@@ -14,4 +14,10 @@
 
 # lisence
 
-# 
+## TODO
+- [ ] **Right Now**
+
+- [ ] Some Day
+  - [ ] when no commit
+    - [ ] import repo from gitlab
+      - [ ] UDxxx(private repo in pority)
