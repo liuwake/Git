@@ -1,4 +1,9 @@
 # Git
+- GitIgnore
+- GitProj
+- Labour And Capotal abbr. LC
+- NSFW
+- 
 # Git Platform
 
 ## [GitHub](https://github.com/liuwake)
@@ -16,6 +21,15 @@
 - VisualStudio.gitignore
 - *Python*
 
+## GitProj
+### GitSCM
+- https://github.com/521xueweihan/git-tips s10k
+### Awesome
+
+
+### Interesting
+- https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee s7k
+- https://github.com/dkwingsmt/haha s555
 
 
 ## TODO
