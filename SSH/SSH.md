@@ -5,7 +5,8 @@
 ## Application
 
 ### Git
-
+- 
+- git config --global credential.helper osxkeychain
 #### Github
 
 ## Ref
