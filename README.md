@@ -18,22 +18,32 @@
 
 ## [Bitbucket](https://bitbucket.org/dashboard/overview)
 - 
-#  Git soft
+#  Git Soft
 - [零代码入门GitHub，图形化交互让你轻松存代码 | 附Git GUI推荐](https://weibo.com/ttarticle/p/show?id=2309404405220623909253#_0)
 ## [Sourcetree](https://www.sourcetreeapp.com/)
 
 ## [GitKraken](https://www.gitkraken.com)
-# gitignore
+
+# Git SCM
+## Learn
+### Learn Git Online
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+### Zhihu
+- [如何优雅的使用Git？](https://www.zhihu.com/question/20866683/answer/711725573)
+
+### [stackoverflow git](https://stackoverflow.com/questions/tagged/git)
+
+## Gitignore
 - VisualStudio.gitignore
 - *Python*
-# GitConfig
+## GitConfig
 - 避免每次输密码
   - git config --global credential.helper store
 - 避免乱码
   - git config --global i18n.logoutputencoding utf-8
   - git config --global gui.encoding utf-8
 
-## GitProj
+# GitProj
 ### GitSCM
 - https://github.com/521xueweihan/git-tips s10k
 ### Awesome
