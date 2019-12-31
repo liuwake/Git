@@ -72,4 +72,5 @@
 - [ ] Some Day
   - [ ] when no commit
     - [ ] import repo from gitlab
-      - [ ] UDxxx(private repo in pority)
+      - [ ] UDxxx(private repo in pority)'
+  - [ ] 删除commit
