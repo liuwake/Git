@@ -52,7 +52,14 @@
 - https://github.com/Licoy/girls-reptile s1k
 
 
+
+# ref
+
+- [【Git】Git行结束符CRLF、LF自动转换全局配置（Windows & macOS ）](https://www.cnblogs.com/Flat-White/p/17428358.html)
+- [[如何使用子模块和子树来管理 Git 项目](https://www.linuxprobe.com/git-module.html)](https://www.linuxprobe.com/git-module.html)
+
 ## TODO
+
 - [ ] **Right Now**
 
 - [ ] Some Day
